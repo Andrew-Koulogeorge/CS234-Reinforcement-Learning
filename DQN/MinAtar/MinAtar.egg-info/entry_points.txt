@@ -1,0 +1,2 @@
+[gymnasium.envs]
+MinAtar = minatar.gym:register_envs

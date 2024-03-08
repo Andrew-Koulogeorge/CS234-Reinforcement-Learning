@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: MinAtar
+Version: 1.0.15
+Summary: A miniaturized version of the Arcade Learning Environment.
+Home-page: https://github.com/kenjyoung/MinAtar
+Author: Kenny Young
+Author-email: kjyoung@ualberta.ca
+License: GPL
+Requires-Dist: cycler>=0.10.0
+Requires-Dist: kiwisolver>=1.0.1
+Requires-Dist: matplotlib>=3.0.3
+Requires-Dist: numpy>=1.16.2
+Requires-Dist: pandas>=0.24.2
+Requires-Dist: pyparsing>=2.3.1
+Requires-Dist: python-dateutil>=2.8.0
+Requires-Dist: pytz>=2018.9
+Requires-Dist: scipy>=1.2.1
+Requires-Dist: seaborn>=0.9.0
+Requires-Dist: six>=1.12.0
+Provides-Extra: examples
+Requires-Dist: torch>=1.0.0; extra == "examples"
